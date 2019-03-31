@@ -1,7 +1,7 @@
-## 孙波的笔记（2019）
 
-### 经典机器学习（Classic Machine Learning）
 
-### 深度学习（Deep Learning）
+# 经典机器学习（Classic Machine Learning）
 
-### 自然语言处理（Natural Language Processing）
+# 深度学习（Deep Learning）
+
+# 自然语言处理（Natural Language Processing）
