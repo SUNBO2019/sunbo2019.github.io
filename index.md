@@ -19,14 +19,12 @@
 
 ### 深度学习（Deep Learning）
 
-* <a href="" target="view_window">多层感知机（MLP）</a><br/>
-* <a href="" target="view_window">神经网络语言模型（NNLM）</a><br/>
-* <a href="" target="view_window">激活函数</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/MLP.pdf" target="view_window">多层感知机（MLP）</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/NNLM.pdf" target="view_window">神经网络语言模型（NNLM）</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Activation_Function.pdf" target="view_window">激活函数</a><br/>
 * 损失函数 <br/>
 * 卷积神经网络（Convolutional Neural Networks, CNN）<br/>
 * 循环神经网络（Recurrent Neural Network, RNN) （草稿中 ... ）<br/>
-* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/MLP.pdf" target="view_window">多层感知机</a><br/>
-* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Activation_Function.pdf" target="view_window">激活函数</a><br/>
 
 ### 自然语言处理（Natural Language Processing）
 * 长短期记忆网络（Long Short-Term Memory, LSTM）（草稿中 ... ）<br/>
