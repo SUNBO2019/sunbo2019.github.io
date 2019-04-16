@@ -32,6 +32,6 @@
 * Transformer模型<br/>
 * BERT(Bidirectional Encoder Representations from Transformers) <br/>
 * 文本相似度 （草稿中 ...）<br/>
-* 排序模型（Learning to Rank,  L2R）<br/>
+* 排序模型（Learning to Rank,  L2R） （草稿中 ...）<br/>
 * 主题模型（Latent Dirichlet Allocation, LDA 隐含狄利克雷分布）<br/>
 
