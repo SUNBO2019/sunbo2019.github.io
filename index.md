@@ -24,12 +24,12 @@
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Activation_Function.pdf">激活函数</a><br/>
 * 损失函数 <br/>
 * 卷积神经网络（Convolutional Neural Networks, CNN）<br/>
-* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/RNN_v2.pdf">循环神经网络（Recurrent Neural Network, RNN)</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/RNN.pdf">循环神经网络（Recurrent Neural Network, RNN)</a><br/>
 
 ### 自然语言处理（Natural Language Processing）
 * 长短期记忆网络（Long Short-Term Memory, LSTM）（草稿中 ... ）<br/>
 * Seq2Seq（Sequence to Sequence）（草稿中 ... ）<br/>
-* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Attention.pdf">Attention机制</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Attention_v2.pdf">Attention机制</a><br/>
 * Transformer模型<br/>
 * BERT(Bidirectional Encoder Representations from Transformers) <br/>
 * 文本相似度 （草稿中 ...）<br/>
