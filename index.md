@@ -25,6 +25,7 @@
 * 损失函数 <br/>
 * 卷积神经网络（Convolutional Neural Networks, CNN）<br/>
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/RNN.pdf">循环神经网络（Recurrent Neural Network, RNN)</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/GRU.pdf">门控循环单元（Gated Recurrent Unit, GRU)</a><br/>
 
 ### 自然语言处理（Natural Language Processing）
 * 长短期记忆网络（Long Short-Term Memory, LSTM）（草稿中 ... ）<br/>
