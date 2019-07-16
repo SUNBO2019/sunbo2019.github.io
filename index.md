@@ -1,10 +1,11 @@
 # 持续更新中......
 
 ### 经典机器学习（Classic Machine Learning）
-* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/GDOA_01.pdf" target="view_window">机器学习中的优化器（01）</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/GDOA_01.pdf" >机器学习中的优化器（01）</a><br/>
 * 机器学习中的优化器（02）(草稿中...) <br/>
 * 机器学习中的优化器（03）(草稿中...) <br/>
 * 朴素贝叶斯 <br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/laplace_smoothing_20190716.pdf" >拉普拉斯平滑（Laplace Smoothing）</a><br/>
 * 决策树 <br/>
 * 集成学习 <br/>
 * 梯度下降 <br/>
