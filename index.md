@@ -1,6 +1,7 @@
 # 持续更新中......
 
 ### 经典机器学习（Classic Machine Learning）
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/GDOA_01.pdf" target="view_window">机器学习中的优化器（01）</a><br/>
 * 朴素贝叶斯 <br/>
 * 决策树 <br/>
 * 集成学习 <br/>
