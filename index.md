@@ -11,6 +11,7 @@
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/Optimization.pdf" target="view_window">优化（Optimization）</a><br/>
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/EM.pdf">EM算法</a><br/>
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/SVM.pdf">支持向量机（SVM）</a><br/>
+* <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/SVM_v2.0.pdf">支持向量机（SVM）</a><br/>
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/GMM.pdf">高斯混合模型（GMM）</a><br/>
 * <a href="https://github.com/SUNBO2019/sunbo2019.github.io/blob/master/HMM.pdf" target="view_window">隐马尔可夫模型（HMM）</a><br/>
 * 高斯过程 <br/>
